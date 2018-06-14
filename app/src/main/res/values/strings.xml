@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">Mock Music App</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Sonu Tiwari</string>
+    <string name="nav_header_subtitle">ankorha@gmail.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="imports">Import</string>
+    <string name="gallery">Gallery</string>
+    <string name="slideshow">Slideshow</string>
+    <string name="share">Share</string>
+    <string name="send">Send</string>
+    <string name="communicate">Communicate</string>
+    <string name="tools">Tools</string>
+    <string name="music">Music</string>
+    <string name="my_playlist">My Playlist</string>
+    <string name="favorite">Favorite</string>
+    <string name="most_played">Most Played</string>
+    <string name="newly_added">Newly Added</string>
+    <string name="music_playing">This activity will show playing music page and all the controls.
+        Click on back button to go back. </string>
+    <string name="subscription">Subscription</string>
+    <string name="payment_page_info">Integration of Google Pay API for payment of subscription is
+        handled here. Payment API integrated here is \'com.google.android.
+        gms:play-services-wallet:11.4.0\', Click on back button to go back</string>
+    <string name="favorite_description">This activity will show list of songs user added as
+        favorite song. Click on back button to go back. Click on any song to play it.</string>
+    <string name="most_played_description">This layout will contain songs which are
+        frequently played by user. Click on back button to go back.
+        Click on any song to play it.</string>
+    <string name="playlist_description">This activity will contain all the playlist created by
+        user. Click on back button to go back. Click on any song to play it.</string>
+    <string name="newly_added_page_description">This activity will contain all the newly added
+        songs in music library, Click on back button to go back.
+        Click on any song to play it.</string>
+    <string name="song_list_description">This activity will contain entire music library and
+        will be launcher activity. Click on any song to play it.</string>
+    <string name="song_library">Song Library</string>
+    <string name="playing_music">Playing Music</string>
+    <string name="payment_page">Payment Page</string>
+    <string name="favorite_song">Favorite Songs</string>
+    <string name="most_played_songs">Most Played Songs</string>
+    <string name="my_play_list">My Play List</string>
+    <string name="newly_added_songs">Newly Added Songs</string>
+    <string name="go_back">Go Back</string>
+</resources>
